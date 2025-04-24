@@ -1,6 +1,6 @@
 # Automação de Relatório de Obras
 ---
-![ETL do Projeto]("C:\Users\Felipe\Desktop\Carreira\Trabalho\IPQ_MODULO\Projeto.png")
+![ETL do Projeto]("img\Projeto.png")
 
 ---
 ### Justificativa:
