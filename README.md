@@ -1,5 +1,8 @@
 # Automação de Relatório de Obras
 ---
+![ETL do Projeto]("C:\Users\Felipe\Desktop\Carreira\Trabalho\IPQ_MODULO\Projeto.png")
+
+---
 ### Justificativa:
 - Ao retirar os dados das respostas do google forms durante meu acompanhamento de obra, percebi **gargalos** na questão de perca de tempo manual para transformar todas as respostas que estavam em colunas, em linhas, fazer as regras de negócios necessárias para as planilhas. Isso para muitas respostas custava um bom tempo.
 
