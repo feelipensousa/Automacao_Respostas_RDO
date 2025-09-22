@@ -1,6 +1,6 @@
 # Automação de Relatório de Obras
 ---
-![ETL do Projeto]("img\Projeto.png")
+![ETL do Projeto](img/Projeto.png)
 
 ---
 ### Justificativa:
